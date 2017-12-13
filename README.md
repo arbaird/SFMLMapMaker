@@ -8,7 +8,7 @@ the current selected layer. Select S to save the new map to
 a new File. The default map that is loaded upon running is
 map.txt.
 
-Based on design in the book SFML Game Development By Example by Raimondas Pupius
+Based on design in the book "SFML Game Development By Example" by Raimondas Pupius
 
 ******Installation******
 
